@@ -49,7 +49,6 @@ You can access the deployed version of Shopping Mania [here](https://shoppingman
 ## Screenshots 📸
 
 ![Screenshot 1](https://i.pinimg.com/originals/54/60/0c/54600c25394fed0e6a52e3ab907a14cb.png)
-*Caption: Home Page*
 
 ## Contribution 🤝
 
